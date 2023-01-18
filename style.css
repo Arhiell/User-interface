@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html, body{
+    width: 100%;
+}
+
+body{
+    background-color: #151e33;
+    color: white;
+    font-family: sans-serif;
+}
+
+.
